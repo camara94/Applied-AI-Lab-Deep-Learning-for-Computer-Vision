@@ -17,3 +17,14 @@ From there, we travel to Bangladesh for Project 3 to create an object detection 
 Projects will include supervised learning tasks, such as image classification and object detection, and unsupervised learning tasks, such as generative AI for image synthesis. You will apply self-regulated learning techniques for exploring software libraries and debugging code. Throughout your project work, you will also consider the ethical and environmental impact of computer vision models, and learn techniques to build models emphasizing fairness and sustainability. Finally, you’ll learn from practicing data scientists about the central values and concerns in the field.
 
 Once you have completed the Lab, you'll be equipped with end-to-end computer vision skills, from data preparation and **ETL**  processes to model development and deployment, enabling you to solve real-world challenges across industries. You'll learn how to clean and transform visual data, train custom computer vision models, and leverage transfer learning techniques.
+
+## Project 1 Overview 
+In this project, you'll look at a data science competition helping scientists track animals in a wildlife preserve. The goal is to take images from camera traps and classify which animal, if any, is present. To complete the competition, you'll expand your machine learning skills by creating more powerful neural network models that can take images as inputs and classify them into one of multiple categories.
+
+Some of the things you'll learn are:
+
+* How to read image files and prepare them for machine learning
+* How to use PyTorch to manipulate tensors and build a neural network model
+* How to build a Convolutional Neural Network that works well with images
+* How to use that model to make predictions on new images
+* How to turn those predictions into a submission to the competition
