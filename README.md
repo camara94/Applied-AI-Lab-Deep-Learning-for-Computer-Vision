@@ -28,3 +28,15 @@ Some of the things you'll learn are:
 * How to build a Convolutional Neural Network that works well with images
 * How to use that model to make predictions on new images
 * How to turn those predictions into a submission to the competition
+
+## Forum
+If you get stuck or have questions, click on the Project 1 Forum tab above ☝️and post a comment. The instructor and your fellow students will be able to help.
+
+### Remember the three tips for writing a good forum post.
+
+* Use the search bar before writing a post.
+* Write a short & descriptive title.
+* Provide plenty of context.
+### Office Hours
+You can see the schedule for all office hours by clicking on the "Calendar" link at the top of this page. You'll need to [download Zoom](https://zoom.us/download) to attend.
+
